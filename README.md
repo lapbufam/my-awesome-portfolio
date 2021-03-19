@@ -1,5 +1,3 @@
-![Devcover logo](https://devcover.me/devcover-logo-bg.png)
-
 🌐 [Open Website](https://devcover.me)
 
 📚 [Read blog](https://blog.jrgarciadev.com/devcover-easiest-way-to-generate-a-developer-portfolio)
